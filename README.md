@@ -24,4 +24,4 @@ Feel free to fork, modify, and contribute to enhance the game further!
 
 
 
-This game was purely made with the help of with the help of AI and Chatgpt.
+This game was made with the help of with the help of AI and Chatgpt.
