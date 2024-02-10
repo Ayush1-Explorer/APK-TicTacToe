@@ -15,10 +15,13 @@ This repository contains a simple web-based Tic-Tac-Toe game implemented using H
 
 ## Instructions for Running the Game:
 
-1. Simply open `index.html` in a web browser to start playing.
+1. Simply download and install the Mobile App and Play.
 2. Click on the squares to mark them with 'X' or 'O' alternately.
 3. The game ends when a player achieves three marks in a row horizontally, vertically, or diagonally, or when the board is full without a winner.
 
 Feel free to fork, modify, and contribute to enhance the game further!
+
+
+
 
 This game was purely made with the help of with the help of AI and Chatgpt.
