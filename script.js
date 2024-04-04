@@ -23,7 +23,7 @@ function showOverlay(message) {
   setTimeout(() => {
     overlay.classList.remove('fade-in');
     overlay.classList.add('fade-out');
-  }, 2000); // Adjust the duration as needed, here it's set to 2 seconds (2000ms)
+  }, 2000); // duration is set to 2 seconds
 }
 
 function checkWin() {
